@@ -1,0 +1,5 @@
+**/test-framework/** linguist-vendored
+**/test_*.c linguist-vendored
+**/test_*.h linguist-vendored
+**/CMakeLists.txt linguist-vendored
+**/Makefile linguist-vendored
