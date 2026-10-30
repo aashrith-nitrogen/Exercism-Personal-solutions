@@ -12,7 +12,3 @@ uint64_t square(uint8_t index){
 uint64_t total(void){
     return UINT64_MAX; // Also can be expressed as (1ULL << 64) - 1) 
 }
-    
-
-
-
